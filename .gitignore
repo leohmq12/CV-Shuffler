@@ -47,7 +47,6 @@ Thumbs.db
 # CV files (you might want to exclude actual CVs)
 *.pdf
 *.docx
-*.txt
 
 # Exclude the data directory but keep the structure
 data/
